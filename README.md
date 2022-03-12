@@ -32,11 +32,10 @@
 # After Cloning the Repo
 
 1. `bundle install`
-2. `npm install`
-3. `yarn`
-4. `rails db:setup`
-5. `rails db:migrate`
-6. `rails s` to start the server
+2. `npm install` or `yarn`
+3. `rails db:setup`
+4. `rails db:migrate`
+5. `rails s` to start the server
 
 # ERD
 ![image](https://user-images.githubusercontent.com/82153590/157997736-95a7c6a8-7f68-43cc-a07f-af47f61367b9.png)
