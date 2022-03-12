@@ -31,3 +31,24 @@
 
 * ## **User or Trader Transaction Logs Page**
 ![Screenshot from 2022-03-12 09-23-47](https://user-images.githubusercontent.com/82153590/157998027-7d79e076-2ef4-4b72-ad8e-b870276e1a40.png)
+
+<hr/>
+
+* ## **Admin Dashboard Page**
+![Screenshot from 2022-03-12 09-26-57](https://user-images.githubusercontent.com/82153590/157998141-1fe915a2-53e3-462b-aff3-50d032bd397a.png)
+
+* ## **Admin Trader Registration Approval Page**
+![Screenshot from 2022-03-12 09-28-45](https://user-images.githubusercontent.com/82153590/157998201-a153f4f2-6ad8-4d43-869a-a8c1185105de.png)
+
+* ## **Admin Create Trader Page**
+![Screenshot from 2022-03-12 09-27-49](https://user-images.githubusercontent.com/82153590/157998174-ce57fac7-a5b6-4fab-979b-89b5a71e20e3.png)
+
+* ## **Admin View Trader Profile Page**
+![Screenshot from 2022-03-12 09-29-26](https://user-images.githubusercontent.com/82153590/157998232-4b2c74e1-cf4c-472d-b359-18f50f815c20.png)
+
+* ## **Admin Edit Trader Profile Page**
+![Screenshot from 2022-03-12 09-30-20](https://user-images.githubusercontent.com/82153590/157998261-6c5798e3-232e-46f8-bbc0-656bba7bb0c2.png)
+
+* ## **Admin View Transaction Logs Page**
+![Screenshot from 2022-03-12 09-31-09](https://user-images.githubusercontent.com/82153590/157998295-ce3ce466-82c5-4a8b-92ff-744a62f5a8f4.png)
+
