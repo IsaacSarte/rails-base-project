@@ -1,4 +1,4 @@
-# Stock Trading App
+# noFomo Stock Trading App
 ### by: Isaac Sarte & Joshua Gorospe
 
 ```
@@ -10,7 +10,33 @@
 
 * ## **Admin Side/Feature**
 
+```
+  1. Approve newly registered Trader Account and Send Approval Email
+  2. Create a Trader manually and Edit a Trader's Profile
+  3. View all Trader's Transaction Logs
+```
+
 * ## **User or Trader Side/Feature**
+
+```
+  1. Register an Account and wait for Approval by Admin
+  2. Have a Trader Profile
+  3. View all companies coming from the IEX API and can buy shares and sell stocks
+  4. View his or her own Transaction Logs
+```
+
+# Cloning the Repo
+
+* `git clone https://github.com/IsaacSarte/rails-base-project.git`
+
+# After Cloning the Repo
+
+1. `bundle install`
+2. `npm install`
+3. `yarn`
+4. `rails db:setup`
+5. `rails db:migrate`
+6. `rails s` to start the server
 
 # ERD
 ![image](https://user-images.githubusercontent.com/82153590/157997736-95a7c6a8-7f68-43cc-a07f-af47f61367b9.png)
